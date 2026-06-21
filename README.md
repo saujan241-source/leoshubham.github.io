@@ -1,26 +1,4 @@
-# leoshubham.github.io
 
-I'll customize this artifact:
-
-
-flappy_bird.html
-Interactive artifact 
-Transform any artifact into something uniquely yours by customizing its core elements.
-
-Change the topic - Adapt the content for a different subject
-Update the style - Refresh the visuals or overall design
-Make it personal - Tailor specifically for your needs
-Share your vision - I'll bring it to life
-Where would you like to begin?
-
-
-Claude Fable 5 is currently unavailable.
-Learn more(opens in new tab)
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
 <!DOCTYPE html>
 <html lang="en">
 <head>
